@@ -35,5 +35,16 @@ The main objectives of creating a Flight Price Prediction Machine Learning Model
 
 Overall, the goal of creating a flight price prediction model is to improve pricing decisions, optimize inventory and revenue, and improve customer experience.
 
+![download-3](https://user-images.githubusercontent.com/128668596/228081753-85cb2afa-85fa-4d24-a8b7-a895a9c336a5.png)
+
+
+![download-4](https://user-images.githubusercontent.com/128668596/228081764-8e313ae3-b14f-48fd-a072-1e8a32029433.png)
+
+![download-5](https://user-images.githubusercontent.com/128668596/228081769-525989e7-8ef5-44aa-beea-bc20aaf13dd1.png)
+
+
+![download-6](https://user-images.githubusercontent.com/128668596/228081798-dfbffc83-c97c-4414-8875-62e7fd825478.png)
+
+
 ## Conclusion
 We implemented a lot of techniques in this project. We saw how we can perform exploratory data analysis and feature selection when we have a large number of features. At the end, we have successfully built the Flight Price Prediction Machine Learning Model to predict the price of flights which will help us to select the best possible travel route and to reach our destination according to our own demand and utility.
